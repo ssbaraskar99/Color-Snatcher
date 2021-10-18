@@ -7,7 +7,6 @@ This is designed to copy color value of pixel from monitor.
   
  # HOW TO INSTALL
  - **For Windows**, use the provided setup file.
- - **For Linux**, just double click to run the software no installation needed.
 
 # HOW TO USE
 
