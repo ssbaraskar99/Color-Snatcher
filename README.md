@@ -7,6 +7,7 @@ This is designed to copy color value of pixel from monitor.
   
  # HOW TO INSTALL
  - **For Windows**, use the provided setup file.
+ - **For Ubuntu**, just extract & double click Color_Snatcher file & it will start running.
 
 # HOW TO USE
 
@@ -43,6 +44,7 @@ This is designed to copy color value of pixel from monitor.
 # **ABOUT**
 - App & App Icon Made By : [ssbaraskar99 ](https://github.com/ssbaraskar99/)
 - Color Snatcher v1.0
+- _App might get stuck for a second, its normal._
 
 # **CREDITS**
 - Font used : [Inter](https://github.com/rsms/inter)
