@@ -5,6 +5,14 @@ This is designed to copy color value of pixel from monitor.
   This software can be used to get color values, in CMYK, HEX, HSl, HSV & RGB color values.
   Which can further be stored in a text file.
   
+## SCREENSHOTS
+![1](https://github.com/ssbaraskar99/Color-Snatcher/blob/main/Screenshots/1.PNG?raw=true)
+![2](https://github.com/ssbaraskar99/Color-Snatcher/blob/main/Screenshots/2.PNG?raw=true)
+![3](https://github.com/ssbaraskar99/Color-Snatcher/blob/main/Screenshots/3.PNG?raw=true)
+![4](https://github.com/ssbaraskar99/Color-Snatcher/blob/main/Screenshots/4.PNG?raw=true)
+![5](https://github.com/ssbaraskar99/Color-Snatcher/blob/main/Screenshots/5.PNG?raw=true)
+![6](https://github.com/ssbaraskar99/Color-Snatcher/blob/main/Screenshots/6.PNG?raw=true)
+  
  # HOW TO INSTALL
  - **For Windows**, use the provided setup file.
  - **For Ubuntu**, just extract & double click Color_Snatcher file & it will start running.
